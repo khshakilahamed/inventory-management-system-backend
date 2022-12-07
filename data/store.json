@@ -1,0 +1,42 @@
+[
+    {
+        "name": "dhaka",
+        "description": "Dhaka store is in the Dhaka area",
+        "status": "active"
+    },
+    {
+        "name": "chattogram",
+        "description": "Chattogram store is in the chattogram area",
+        "status": "active"
+    },
+    {
+        "name": "rajshahi",
+        "description": "Rajshahi store is in the rajshahi area",
+        "status": "active"
+    },
+    {
+        "name": "sylhet",
+        "description": "Sylhet store is in the sylhet area",
+        "status": "active"
+    },
+    {
+        "name": "khulna",
+        "description": "Khulna store is in the khulna area",
+        "status": "active"
+    },
+    {
+        "name": "barishal",
+        "description": "Barishal store is in the barishal area",
+        "status": "active"
+    },
+    {
+        "name": "rangpur",
+        "description": "Rangpur store is in the rangpur area",
+        "status": "active"
+    },
+    {
+        "name": "mymensingh",
+        "description": "Mymensingh store is in the mymensingh area",
+        "status": "active"
+    }
+]

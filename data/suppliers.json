@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Kh. Shakil",
+        "email": "khshakil@gmail.com",
+        "brand": {
+            "name": "Pran",
+            "id":"638231e439a3ba28a86610ca"
+        },
+        "contactNumber": [
+            "02834932034",
+            "49283920344"
+        ],
+        "emergencyContactNumber": "02834932034",
+        "tradeLicenseNumber": 3458348374,
+        "presentAddress": "Tangail",
+        "permanentAddress": "Dhaka",
+        "location": "chattogram",
+        "imageURL": "https://ibb.co/mTmzRFQ",
+        "nationalIdImageURL": "https://ibb.co/mTmzRFQ",
+        "status": "active"
+    },
+    {
+        "name": "Kh. Shakil",
+        "email": "khshakiladf@gmail.com",
+        "brand": {
+            "name": "Pran",
+            "id":"638231e439a3ba28a86610ca"
+        },
+        "contactNumber": [
+            "02834932034",
+            "49283920344"
+        ],
+        "emergencyContactNumber": "02834932034",
+        "tradeLicenseNumber": 3458348374,
+        "presentAddress": "Tangail",
+        "permanentAddress": "Dhaka",
+        "location": "dhaka",
+        "imageURL": "https://ibb.co/mTmzRFQ",
+        "nationalIdImageURL": "https://ibb.co/mTmzRFQ",
+        "status": "active"
+    },
+    {
+        "name": "Rahim",
+        "email": "rahim@gmail.com",
+        "brand": {
+            "name": "fresh",
+            "id":"6381c9c0d051fa25247e7520"
+        },
+        "contactNumber": [
+            "02834932034",
+            "49283920344"
+        ],
+        "emergencyContactNumber": "02834932034",
+        "tradeLicenseNumber": 3458348374,
+        "presentAddress": "Tangail",
+        "permanentAddress": "Dhaka",
+        "location": "dhaka",
+        "imageURL": "https://ibb.co/mTmzRFQ",
+        "nationalIdImageURL": "https://ibb.co/mTmzRFQ",
+        "status": "active"
+    },
+    {
+        "name": "Rahim",
+        "email": "rahimadf@gmail.com",
+        "brand": {
+            "name": "fresh",
+            "id":"6381c9c0d051fa25247e7520"
+        },
+        "contactNumber": [
+            "02834932034",
+            "49283920344"
+        ],
+        "emergencyContactNumber": "02834932034",
+        "tradeLicenseNumber": 3458348374,
+        "presentAddress": "Tangail",
+        "permanentAddress": "Dhaka",
+        "location": "chattogram",
+        "imageURL": "https://ibb.co/mTmzRFQ",
+        "nationalIdImageURL": "https://ibb.co/mTmzRFQ",
+        "status": "active"
+    },
+    {
+        "name": "Jhankar Mahbub",
+        "email": "jhankar@gmail.com",
+        "brand": {
+            "name": "rup chanda",
+            "id":"6381c96e2addfcd39f41090f"
+        },
+        "contactNumber": [
+            "02834932034",
+            "49283920344"
+        ],
+        "emergencyContactNumber": "02834932034",
+        "tradeLicenseNumber": 3458348374,
+        "presentAddress": "Tangail",
+        "permanentAddress": "dhaka",
+        "location": "dhaka",
+        "imageURL": "https://ibb.co/mTmzRFQ",
+        "nationalIdImageURL": "https://ibb.co/mTmzRFQ",
+        "status": "active"
+    },
+    {
+        "name": "Jhankar Mahbub",
+        "email": "jhankaradf@gmail.com",
+        "brand": {
+            "name": "rup chanda",
+            "id":"6381c96e2addfcd39f41090f"
+        },
+        "contactNumber": [
+            "02834932034",
+            "49283920344"
+        ],
+        "emergencyContactNumber": "02834932034",
+        "tradeLicenseNumber": 3458348374,
+        "presentAddress": "Tangail",
+        "permanentAddress": "dhaka",
+        "location": "chattogram",
+        "imageURL": "https://ibb.co/mTmzRFQ",
+        "nationalIdImageURL": "https://ibb.co/mTmzRFQ",
+        "status": "active"
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "productId": "6383b4285e2f274ba46772a9",
+        "name": "pran chinigura aromatic rice - 5kg bag",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "imageURLs": [
+            "https://chaldn.com/_mpimage/pran-chinigura-aromatic-rice-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108114&q=best&v=1&m=400&webp=1",
+            "https://chaldn.com/_mpimage/pran-nazirshail-rice-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48089&q=low&v=1&m=400&webp=1"
+        ],
+        "unit": "bag",
+        "price": "357",
+        "quantity": 1200,
+        "status": "in-stock",
+        "category": "Rice",
+        "brand": {
+            "name": "Pran",
+            "id": "638231e439a3ba28a86610ca"
+        },
+        "store": {
+            "name": "chattogram",
+            "id": "6383b8dc499e650bc41cf83c"
+        },
+        "suppliedBy": {
+            "name": "kh. shakil",
+            "id": "6383aac2f5048357f04dd340"
+        },
+        "sellCount": 50
+    },
+    {
+        "productId": "6383b4285e2f274ba46772a9",
+        "name": "pran chinigura aromatic rice - 5kg bag",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "imageURLs": [
+            "https://chaldn.com/_mpimage/pran-chinigura-aromatic-rice-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108114&q=best&v=1&m=400&webp=1",
+            "https://chaldn.com/_mpimage/pran-nazirshail-rice-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48089&q=low&v=1&m=400&webp=1"
+        ],
+        "unit": "bag",
+        "price": "400",
+        "quantity": 1300,
+        "status": "in-stock",
+        "category": "Rice",
+        "brand": {
+            "name": "Pran",
+            "id": "638231e439a3ba28a86610ca"
+        },
+        "store": {
+            "name": "chattogram",
+            "id": "6383b8dc499e650bc41cf83c"
+        },
+        "suppliedBy": {
+            "name": "kh. shakil",
+            "id": "6383aac2f5048357f04dd340"
+        },
+        "sellCount": 50
+    },
+    {
+        "productId": "6383b487eb79f72174e84544",
+        "name": "aci pure miniket rice premium",
+        "description": "ACI Pure Miniket Rice Premium. Fresh and Clean, Vacuum Packed. ACI Pure Miniket Rice Premium can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "imageURLs": [
+            "https://chaldn.com/_mpimage/aci-pure-miniket-rice-premium-10-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48063&q=best&v=1&m=400&webp=1"
+        ],
+        "unit": "kg",
+        "price": "600",
+        "quantity": 900,
+        "status": "in-stock",
+        "category": "Rice",
+        "brand": {
+            "name": "ACI",
+            "id": "6381c96e2addfcd39f41090d"
+        },
+        "store": {
+            "name": "chattogram",
+            "id": "6383b8dc499e650bc41cf83c"
+        },
+        "suppliedBy": {
+            "name": "kh. shakil",
+            "id": "6383aac2f5048357f04dd340"
+        },
+        "sellCount": 30
+    },
+    {
+        "productId": "6383b487eb79f72174e84544",
+        "name": "aci pure miniket rice premium",
+        "description": "ACI Pure Miniket Rice Premium. Fresh and Clean, Vacuum Packed. ACI Pure Miniket Rice Premium can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "imageURLs": [
+            "https://chaldn.com/_mpimage/aci-pure-miniket-rice-premium-10-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48063&q=best&v=1&m=400&webp=1"
+        ],
+        "unit": "kg",
+        "price": "600",
+        "quantity": 900,
+        "status": "in-stock",
+        "category": "Rice",
+        "brand": {
+            "name": "ACI",
+            "id": "6381c96e2addfcd39f41090d"
+        },
+        "store": {
+            "name": "dhaka",
+            "id": "6383b8cb499e650bc41cf83a"
+        },
+        "suppliedBy": {
+            "name": "kh. shakil",
+            "id": "6383aac2f5048357f04dd340"
+        },
+        "sellCount": 30
+    }
+
+]
